@@ -1,4 +1,4 @@
-const fs = global.nodemodule["fs-extra"];
+const axios = require('axios');
 module.exports.config = {
   name: "ميري",
   version: "1.0.1",
